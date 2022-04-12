@@ -1,6 +1,6 @@
 ## 네트워킹
 
-![Untitled](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/62ac3011-0644-4416-a981-c1b1b5057f6f/Untitled.png)
+![image](https://user-images.githubusercontent.com/56625356/163009568-d08086e5-534f-40f4-b1ae-1037375a18b3.png)
 
 - TCP (Transmission Control Protocol)
     - Transport Layer 레이어 통신 프로토콜
