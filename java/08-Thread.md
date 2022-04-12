@@ -10,14 +10,16 @@
     - 프로세스당 최소 1개의 thread(main thread)를 가지고 있다.
     - 각 프로세스는 별도의 주소공간에서 실행. 변수, 자료구조 등에 접근 X (통신해야함)
 
-  ![Untitled](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/3c116a30-a750-4cb7-85c6-7fe4de36291b/Untitled.png)
+![image](https://user-images.githubusercontent.com/56625356/163009366-5268621f-a9e0-4240-85c9-dc9562ef1314.png)
+
+
 
 - Thread
     - 프로세스 내에서 실행되는 여러 흐름의 단위. 프로세스가 할당받은 자원을 이용하는 실행의 단위
     - thread는 프로세스 내에서 각각 stack 만 따로 할당받고 Code, Data, Heap 영역은 공유한다
     - 같은 프로세스 안에 있는 thread끼리 heap 공간 공유
 
-  ![Untitled](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/81259223-4750-4048-97ca-639d9d02f76e/Untitled.png)
+ ![image](https://user-images.githubusercontent.com/56625356/163009401-2019c8f5-8e24-4211-8d22-1f15d6d151e9.png)
 
 
 ## 멀티 프로세스 / 멀티 스레드
