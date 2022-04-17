@@ -1,0 +1,10 @@
+
+S	java:S106"9Replace this use of System.out or System.err by a logger.(É·Òéúÿÿÿÿ
+S	java:S106"9Replace this use of System.out or System.err by a logger.(²®òûÿÿÿÿ
+o
+java:S6204"RReplace this usage of 'Stream.collect(Collectors.toList())' with 'Stream.toList()'(§ÓÂ 8ç³ôÅ‚0
+]
+java:S1612"@Replace this lambda with method reference 'StudentDTO::getName'.(§ÓÂ 8é³ôÅ‚0
+N	java:S106"9Replace this use of System.out or System.err by a logger.(ì§©ˆ
+S	java:S106$"9Replace this use of System.out or System.err by a logger.(Ç›ìƒüÿÿÿÿ
+t	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(¼¸åÒÿÿÿÿÿ

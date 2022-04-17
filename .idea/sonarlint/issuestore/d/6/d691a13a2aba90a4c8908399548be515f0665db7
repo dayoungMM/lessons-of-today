@@ -1,0 +1,10 @@
+
+e
+java:S1450"PRemove the "x" field and declare it as a local variable in the relevant methods.(…ù™Z
+S	java:S106"9Replace this use of System.out or System.err by a logger.(Ñ¸Àûÿÿÿÿ
+S	java:S106"9Replace this use of System.out or System.err by a logger.(µ•òÜøÿÿÿÿ
+:
+java:S1068"%Remove this unused "x" private field.(…ù™Z
+;
+java:S1068"%Remove this unused "o" private field.(Ú¡Ã„
+o	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(ÌÎ©ø
