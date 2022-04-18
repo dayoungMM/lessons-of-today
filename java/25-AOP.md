@@ -37,7 +37,8 @@ class B {
     - 여기저기에 흩어져서 반복되는 코드를 흩어진 관심사라고 한다 → 관심사 관점으로 생각하는게 관점지향 프로그래밍
     - 중복되는 코드를 모듈화 하고 핵심적인 비즈니스 로직에서 분리하여 재사용
 
-  ![Untitled](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/bc2e1d8e-e82d-4038-8c89-4e11b5982dae/Untitled.png)
+![image](https://user-images.githubusercontent.com/56625356/163828381-5cfa696c-edd5-4dcd-9e2d-78b03a59bf12.png)
+
 
 
 ## 주요 개념, 어노테이션
@@ -65,7 +66,8 @@ class B {
 
 ## 프록시 패턴
 
-![Untitled](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/3fc347a1-c61d-490d-b04a-95465c4cda5a/Untitled.png)
+![image](https://user-images.githubusercontent.com/56625356/163828409-6f14696d-785b-4a22-9380-b1f1a0e8a1c5.png)
+
 
 - interface가 존재하고, client는 interface 타입으로 proxy 객체를 사용하게 된다
 - Real Subject는 Subject라는 interface를 구현한 객체. 원래 해야할 일을 가지고 있다
