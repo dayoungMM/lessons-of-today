@@ -8,7 +8,8 @@
         - 생성 → 의존성 설정 → 초기화 → 소멸
 - DI보다 상위의 개념이라고 볼 수 있다.
 
-![Untitled](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/b9fcf3c2-a781-43a8-8923-09e4886b9c1e/Untitled.png)
+![image](https://user-images.githubusercontent.com/56625356/163827891-6c8c4b71-e3a3-4850-98ef-da823adcc1fc.png)
+
 
 ## Spring 컨테이너 종류
 
