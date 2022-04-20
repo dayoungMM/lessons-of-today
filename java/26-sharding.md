@@ -16,7 +16,8 @@
 
 </aside>
 
-![Untitled](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/3c822f8c-7cf1-453b-86a4-b900dbfa6138/Untitled.png)
+![image](https://user-images.githubusercontent.com/56625356/164237728-24154437-824b-4ec9-9aba-f8faeab9ff81.png)
+
 
 ## 구현
 
@@ -51,7 +52,8 @@
 
 ### 1. Key Based Sharding (Modular sharding)
 
-![Untitled](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/57954e84-dbb0-4716-8d7a-7b89396c4d79/Untitled.png)
+![image](https://user-images.githubusercontent.com/56625356/164237888-72d25d13-ff3f-4604-82d3-453f29e93980.png)
+
 
 - PK를 모듈러 연산(PK % DB수)한 결과로 DB를 특정하는 방식
 - 장점
@@ -65,7 +67,7 @@
 
 ### 2. Range Sharding
 
-![Untitled](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/0587d452-ac6c-4a44-a63f-0d4e66aba6be/Untitled.png)
+![image](https://user-images.githubusercontent.com/56625356/164237979-ce603eee-1baa-4e96-b00d-bc86d48fae8b.png)
 
 - PK 범위를 기준으로 DB를 특정하는 방식
 - 장점
