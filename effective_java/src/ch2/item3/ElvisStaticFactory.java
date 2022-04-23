@@ -1,4 +1,4 @@
-package item3;
+package ch2.item3;
 
 public class ElvisStaticFactory {
     //static 멤버 private으로 막고

@@ -1,4 +1,4 @@
-package item9.tryWithResources;
+package ch2.item9.tryWithResources;
 
 import java.io.*;
 

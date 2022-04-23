@@ -1,4 +1,4 @@
-package item3;
+package ch2.item3;
 
 public enum  ElvisEnum {
     INSTANCE;

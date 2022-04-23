@@ -1,4 +1,4 @@
-package item1;
+package ch2.item1;
 
 public class Laptop {
     private String model;

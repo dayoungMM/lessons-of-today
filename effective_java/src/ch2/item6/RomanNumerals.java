@@ -1,4 +1,4 @@
-package item6;
+package ch2.item6;
 
 import java.util.regex.Pattern;
 

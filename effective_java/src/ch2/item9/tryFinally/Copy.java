@@ -1,4 +1,4 @@
-package item9.tryFinally;
+package ch2.item9.tryFinally;
 
 import java.io.*;
 
